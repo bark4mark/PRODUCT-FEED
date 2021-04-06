@@ -8,3 +8,9 @@
   - Outputs a short summary when complete
 - Writes out processed.csv
 - Gzips processed.csv
+
+Running
+
+```
+cd into product-feed directory and run npm start
+```
